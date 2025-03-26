@@ -12,3 +12,6 @@ This project analyzes Amharic social media data to detect public health trends. 
 ![image alt](https://github.com/asemrie/AI-for-Analyzing-Social-MediaData-for-Public-Health-Trends/blob/main/distribution.PNG)
 
 
+![image alt](https://github.com/asemrie/AI-for-Analyzing-Social-MediaData-for-Public-Health-Trends/blob/main/word-cloud.PNG)
+
+
